@@ -1,0 +1,1 @@
+// true, it compares the first charector since it;s a string
