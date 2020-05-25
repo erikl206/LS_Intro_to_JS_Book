@@ -1,0 +1,1 @@
+//throws TypeError - you can't reassign a constant variable

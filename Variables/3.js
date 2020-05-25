@@ -1,0 +1,1 @@
+//foo is declared inside a block so when console.log calls foo, they are not in the same scope.

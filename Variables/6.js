@@ -1,0 +1,1 @@
+//no it will log bar, the second FOO was declared in a seperate block.
